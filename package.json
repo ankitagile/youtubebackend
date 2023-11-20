@@ -1,0 +1,27 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "A youtube backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitagile/youtubebackend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascipt"
+  ],
+  "author": "Ankit Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankitagile/youtubebackend/issues"
+  },
+  "homepage": "https://github.com/ankitagile/youtubebackend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
